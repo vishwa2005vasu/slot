@@ -123,7 +123,9 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![image](https://github.com/vishwa2005vasu/slot/assets/135954202/e2c0704f-b388-4fbf-90f7-38ecb055ad4c)
+
+![vs,](https://github.com/vishwa2005vasu/slot/assets/135954202/041dcc68-b0b1-4a41-9211-5c89981a09f1)
+
 
 
 ## RESULT
